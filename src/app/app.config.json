@@ -1,0 +1,14 @@
+{
+  "appname": "default access",
+  "scope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "3909FFA4-ADCA-43E1-8B54-3E367ADBD536",
+  "buyerid": "Vendor",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
